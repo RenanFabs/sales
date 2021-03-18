@@ -33,3 +33,4 @@ C:\Users\renan\source\repos\Sales\Sales\obj\Debug\netcoreapp2.1\Sales.dll
 C:\Users\renan\source\repos\Sales\Sales\obj\Debug\netcoreapp2.1\Sales.pdb
 C:\Users\renan\source\repos\Sales\Sales\obj\Debug\netcoreapp2.1\Sales.genruntimeconfig.cache
 C:\Users\renan\source\repos\Sales\Sales\obj\Debug\netcoreapp2.1\Sales.csproj.CopyComplete
+C:\Users\renan\source\repos\Sales\Sales\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
